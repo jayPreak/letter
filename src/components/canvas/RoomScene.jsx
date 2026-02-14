@@ -30,6 +30,7 @@ function RoomModel(props) {
 
   return <primitive object={clone} {...props} />
 }
+aaa
 
 export function RoomScene() {
   const cameraRef = useRef(null)
