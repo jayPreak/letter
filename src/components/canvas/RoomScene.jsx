@@ -12,7 +12,7 @@ const LETTER_MODEL_PATH = '/letter.glb'
 // Camera tuning values you can edit
 const CAMERA_BASE_POSITION = [-2.5, 1.5, 6]
 const CAMERA_TARGET_POSITION = [-1.5, 0.9, 1.1]
-const CAMERA_MOVE_SPEED = 0.05
+const CAMERA_MOVE_SPEED = 0.1
 const CAMERA_STOP_EPSILON = 0.02
 
 // Camera look at position
