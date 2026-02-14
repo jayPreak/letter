@@ -81,10 +81,10 @@ export default function Page() {
             />
             <div className='flex h-full flex-col p-8 pt-14 sm:p-12 sm:pt-16'>
               {/* <p className='mb-3 text-xs uppercase tracking-[0.25em] text-amber-900/70'>My Letter</p> */}
-              <p className='mb-4 text-amber-900/80'>To Ishita Shetye, My Love,</p>
-              {/* <label htmlFor='letter-text' className='mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-amber-900/60'>
-                hiii
-              </label> */}
+              <p className='mb-4 text-amber-900/80'>To Ishita Shetye,</p>
+              <label htmlFor='letter-text' className='mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-amber-900/60'>
+                my cutu modak
+              </label>
               <textarea
                 id='letter-text'
                 value={letterText}
@@ -93,7 +93,11 @@ export default function Page() {
                   
 Everyday since we started talking has been so much fun and I love every moment I spend with you. It all just felt so unreal and nice and amazing and ugh I love you so much. Meeting you was soooo much fun oh my god best 2 days of my life everything was just so amazing, seeing your pretty eyes and cute smile in front of me, hearing your beautiful voice, doing umm well hehe anywaysss I LOVE YOU SO MUCH MWAAAH
 
-Also reassurance paragrph, I love you and YOU only so dont worry about anything I will always be with you and support you. You are the best and you work so hard, I believe in you and I want to be by your side seeing you and making you the happiest ever kissu
+Also reassurance paragrph, I love you and YOU only so dont worry about anything I will always be with you and support you. You are the best and you work so hard, I believe in you and I want to be by your side seeing you succeed and making you the happiest ever kissu
+
+Your fat pig,
+Aapka gulam,
+Jay
                   `}
                 className='h-full w-full resize-none bg-transparent p-0 text-[24px] leading-[1.25] text-amber-950 placeholder:text-amber-900/40 focus:outline-none'
                 style={{
